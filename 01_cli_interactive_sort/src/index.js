@@ -3,8 +3,6 @@ import {stdin as input, stdout as output} from 'node:process';
 import {getCyanLine, getYellowLine} from "./utils/getColoredLines.js";
 import {validateData} from "./utils/validateData.js";
 
-
-const defaultString = "big get apple three 3 1 16 get yellow what 3 apple 2 999 green 728 big  1 & # 2 @ 146"
 export const rl = readline.createInterface({input, output});
 export const bootstrap = async () => {
 	

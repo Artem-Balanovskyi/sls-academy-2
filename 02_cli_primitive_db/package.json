@@ -1,9 +1,9 @@
 {
-  "name": "sls-academy-2",
+  "name": "02_cli_primitive_db",
   "version": "1.0.0",
-  "description": "SLS Academy Module 1 Task 1",
-  "type": "module",
+  "description": "SLS Academy Module 1 Task 2",
   "main": "src/index.js",
+  "type": "module",
   "scripts": {
     "start": "node src/index.js"
   },
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Artem-Balanovskyi/sls-academy-2/issues"
   },
-  "homepage": "https://github.com/Artem-Balanovskyi/sls-academy-2#readme"
+  "homepage": "https://github.com/Artem-Balanovskyi/sls-academy-2#readme",
+  "dependencies": {
+    "inquirer": "^9.2.7"
+  }
 }
