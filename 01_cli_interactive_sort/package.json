@@ -1,0 +1,20 @@
+{
+  "name": "sls-academy-2",
+  "version": "1.0.0",
+  "description": "SLS Academy Module 1 Task 1",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artem-Balanovskyi/sls-academy-2.git"
+  },
+  "author": "Artem Balanovskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artem-Balanovskyi/sls-academy-2/issues"
+  },
+  "homepage": "https://github.com/Artem-Balanovskyi/sls-academy-2#readme"
+}
