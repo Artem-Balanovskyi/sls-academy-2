@@ -1,0 +1,25 @@
+{
+  "name": "03_cli_telegram_console_sender",
+  "version": "1.0.0",
+  "description": "SLS Academy Module 1 Task 3",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "getId": "node utils/getChatId.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artem-Balanovskyi/sls-academy-2.git"
+  },
+  "author": "Artem Balanovskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artem-Balanovskyi/sls-academy-2/issues"
+  },
+  "homepage": "https://github.com/Artem-Balanovskyi/sls-academy-2#readme",
+  "dependencies": {
+    "commander": "^10.0.1",
+    "dotenv": "^16.1.4",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
