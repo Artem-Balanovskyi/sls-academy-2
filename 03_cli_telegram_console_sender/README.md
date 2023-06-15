@@ -13,7 +13,9 @@ and when the app is running send "/start" to the bot chat.
 The chatId will be send back to the chat.
 ```
 
+## Install the dependencies:
 
+### - `npm i`
 
 ## Running the app
 
