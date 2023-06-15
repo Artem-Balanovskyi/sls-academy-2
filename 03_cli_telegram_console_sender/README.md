@@ -4,8 +4,9 @@
 Link to telegram bot: t.me/Sls_academy_task_bot.
 ```
 
-#### Rename "example.txt" to the ".env"
-#### Add your chatId to .env file
+#### Rename "example.env" to the ".env" and
+#### add TELEGRAM_API_TOKEN and TELEGRAM_CHAT_ID
+
 
 ```bash
 Note: To get your chatId you can run: "npm run getId" 
