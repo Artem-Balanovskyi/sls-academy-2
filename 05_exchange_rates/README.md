@@ -1,4 +1,4 @@
-# 03 CLI: Telegram Console Sender
+# 05 Telegram Bot: Exchange Rates
 
 ```bash
 Link to telegram bot: t.me/sls_exchange_rates_bot.

@@ -1,4 +1,4 @@
-# 03 CLI: Telegram Console Sender
+# 04 Telegram Bot: Weather Forecast
 
 ```bash
 Link to telegram bot: t.me/Sls_weather_bot.
