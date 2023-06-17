@@ -18,7 +18,6 @@ export const sortUniqueWordsByRepetitions = async () => {
 			}
 		}
 		
-		console.log()
 		return wordsRepeatCounter
 	} catch (err) {
 		console.log(`collectAllWords ERROR: ${err.message}`)
