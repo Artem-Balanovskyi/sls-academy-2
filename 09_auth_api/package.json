@@ -6,7 +6,10 @@
   "type": "module",
   "scripts": {
     "start": "node src/index",
-    "start:dev": "nodemon src/index"
+    "start:dev": "nodemon src/index",
+    "docker:build": "docker-compose up --build",
+    "docker:up": "docker-compose up",
+    "docker:clean": "docker system prune -a"
   },
   "repository": {
     "type": "git",
